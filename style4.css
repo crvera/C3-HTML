@@ -1,0 +1,62 @@
+#contenedor-principal {
+    color: rgb(117, 24, 24);
+    padding: 5px;
+    font-size: 20px;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rectangulo {
+    padding: 5px;
+    margin: 5px;
+}
+
+.px {
+    background-color: crimson;
+    width: 200px;
+}
+
+.vw {
+    background-color: darkmagenta;
+    width: 20vw;
+}
+
+.em {
+    background-color: green;
+    width: 15em;
+}
+
+body{
+    background-color: silver;
+}
+
+.texto-azul {
+    color: blue;
+}
+
+.texto-morado {
+    color: purple;
+}
+
+.sin-subrayado { 
+    text-decoration: none;
+    font-size: 25px;
+}
+
+a { text-decoration: purple wavy underline;}
+
+#titulo { color: purple; font-size: 20px;}
+
+.texto-azul { color: blue; font-size: 20px;}
+
+/*asi es como se escribe los comentarios en css*/
+#enlace-principal {
+    color: green;
+    text-decoration: green wavy underline;
+}
+
+.sin-subrayado {
+    color: blue;
+    text-decoration: none;   
+}
+
